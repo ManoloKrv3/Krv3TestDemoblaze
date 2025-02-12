@@ -7,4 +7,4 @@ This repository contains end-to-end tests for the DemoBlaze ecommerce site, focu
 
 ## Setup
 1. Clone the repository:
-git clone https://github.com/ManoloKrv3/omniprotest.git
+git clone [https://github.com/ManoloKrv3/Krv3TestDemoblaze.git](https://github.com/ManoloKrv3/Krv3TestDemoblaze)
